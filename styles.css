@@ -1,9 +1,0 @@
-body {
-    background-image: url(https://i.etsystatic.com/13286765/r/il/f4fd4a/5346864618/il_fullxfull.5346864618_5el6.jpg); /* Cambia 'ruta-del-fondo.jpg' por el nombre de tu imagen */
-    background-color: #1a1a1a; /* Fondo oscuro si la imagen no carga */
-    background-size: cover; /* Escala para cubrir toda la pantalla */
-    background-position: center; /* Centra la imagen */
-    background-attachment: fixed; /* Fija el fondo al hacer scroll */
-    color: #ffffff; /* Texto blanco para contraste */
-    font-family: Arial, sans-serif; /* Fuente de texto */
-}
