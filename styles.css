@@ -1,18 +1,9 @@
 body {
-    background-color: #ffe6f0; /* Fondo rosado suave */
-    color: #333333; /* Texto gris oscuro */
+    background-image: url('ruta-del-fondo.jpg');https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etsy.com%2Fes%2Fmarket%2Fcoraz%25C3%25B3n_love_de_snoopy&psig=AOvVaw2Qv_qHpn_cfOKvIHgcGGWS&ust=1733549567765000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPi-gce1kooDFQAAAAAdAAAAABAI /* Aquí va la URL de tu imagen */
+    background-color: #1a1a1a; /* Fondo oscuro por si la imagen no carga */
+    background-size: cover; /* Escala para cubrir toda la pantalla */
+    background-position: center;
+    background-attachment: fixed; /* Para que el fondo no se mueva */
+    color: #ffffff; /* Texto blanco para resaltar en fondo oscuro */
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-}
-
-h1 {
-    color: #ff4081; /* Rosa vibrante */
-    font-size: 2.5rem;
-}
-
-p {
-    color: #6b6b6b; /* Gris claro */
-    font-size: 1.2rem;
 }
